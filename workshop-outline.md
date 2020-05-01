@@ -69,7 +69,7 @@ GitHub Issue: https://github.com/bitprj/onboarding/issues/12
 
 ## Step 2: Completing Slides and Interactive Component
 
-- link completed slides
+- [Slide Deck](https://docs.google.com/presentation/d/1KoQsoImQXn_djKsIdPhhswss6OmrvUCj8oLLvIRlyLM/edit?usp=sharing)
 - link interactive component
 - script is with presentation under each slide
 
